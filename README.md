@@ -23,7 +23,7 @@ CouchDB
 FreeSwitch
 ==========
 
-- conference with async events
-  insert in couchdb on join/leave
-  show who's present on web
-  say number on couchdb changes
+- conference with async events:
+  insert in couchdb on join/leave;
+  show who's present on web;
+  notify on couchdb changes
