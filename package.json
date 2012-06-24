@@ -1,0 +1,12 @@
+{
+  "name": "rmll2012"
+, "version": "0.1.0"
+, "dependencies": {
+    "zappajs": "0.3.x"
+  , "pico": "*"
+  , "stylus": "*"
+  , "esl": "*"
+  , "node-uuid": "*"
+  }
+, "private": true
+}
