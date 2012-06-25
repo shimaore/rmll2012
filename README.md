@@ -13,7 +13,9 @@ Node.js
 - zappa canvas
   todo: add redis or memcached datastore
 
-Want more? [etherpad-lite](https://github.com/Pita/etherpad-lite) uses similar techniques.
+Want more?
+[ethercalc](http://ethercalc.net/) uses Zappa.
+[etherpad-lite](https://github.com/Pita/etherpad-lite) uses similar techniques.
 
 CouchDB
 =======
