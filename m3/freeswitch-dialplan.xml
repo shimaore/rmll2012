@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<include>
+  <context name="default">
+    <extension name="demo">
+      <condition field="destination_number" expression="^9198$">
+        <action application="answer"/>
+        <action application="sock   et" data="127.0.0.1:7000 async full"/>
+      </condition>
+    </extension>
+  </context>
+</include>
